@@ -1,6 +1,7 @@
 from fastapi import fastapi
 from app.database import db
 
+#test
 
 app =  fastapi()
 

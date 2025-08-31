@@ -2,6 +2,8 @@ import motor.motor_asyncio
 import os
 from dotenv import load_dotenv
 
+
+#test
 load_dotenv()
 
 MONGO_URI = os.getenv("MONGO_URI")
